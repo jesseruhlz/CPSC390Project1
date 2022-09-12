@@ -4,6 +4,11 @@
 # CPSC 390
 # Project 1
 
+# References
+# https://github.com/aimacode
+# https://github.com/aimacode/aima-python/blob/master/search.ipynb
+
+
 # Node
 class Node():
     def _init_(self, state, edgeWeight = 0):
